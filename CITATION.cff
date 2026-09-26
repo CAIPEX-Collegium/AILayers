@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper as below."
+title: "생성형 AI의 ‘계층형 심리 구조’ 설계: Protofelix LayerAI 모델의 기술적 이점, 위험, 구현·평가 프레임워크"
+authors:
+  - family-names: "Jun"
+    given-names: "E(on)."
+version: "1.0"
+url: "https://caipex.site/"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Jun"
+      given-names: "E(on)."
+  title: "생성형 AI의 ‘계층형 심리 구조’ 설계: Protofelix LayerAI 모델의 기술적 이점, 위험, 구현·평가 프레임워크"
+  year: 2026
+  publisher:
+    name: "CAIPEX"
